@@ -3,14 +3,12 @@ Bu repo **Kodluyoruz** Front-end Eğitiminde oluşturduğumuz ilk repo. İçeris
 > ![](img.png)
 # Installation
 Öncelikle projeyi clonelayın.
-#1 
- git clone https://github.com/devyusss/ #1
-kodluyoruzilkrepo
+'git clone https://github.com/devyusss/kodluyoruzilkrepo.git'
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-''' cd kodluyoruzilkrepo 
-   code . '''
+'cd kodluyoruzilkrepo
+   code .'
 # Contributing
 Pul requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tatışmak için konu açınız.
 # License
